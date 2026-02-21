@@ -949,18 +949,6 @@
       "fileSize": 2369895
     },
     {
-      "path": "mods/GatewaysToEternity-1.21.1-5.1.0.jar",
-      "hashes": {
-        "sha1": "f91a593378209f527fe81e731ca60fe8f8da2319",
-        "sha512": "d36808881eebad83e3d922e0fc77bcd99d40d5997b5b68bdd8a6509e110e6a5a48c38f70826425316487cc87934d5bff947c1dd2eacdcd7bba5d39e03bf288a0"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/6926/284/GatewaysToEternity-1.21.1-5.1.0.jar",
-        "https://edge.forgecdn.net/files/6926/284/GatewaysToEternity-1.21.1-5.1.0.jar"
-      ],
-      "fileSize": 646451
-    },
-    {
       "path": "mods/geckolib-neoforge-1.21.1-4.8.3.jar",
       "hashes": {
         "sha1": "fb0ac6ad63dc5f401c15c66a037c08e9709d1c42",
@@ -1186,6 +1174,19 @@
         "https://edge.forgecdn.net/files/7278/501/kubejs-neoforge-2101.7.2-build.348.jar"
       ],
       "fileSize": 2240610
+    },
+    {
+      "path": "mods/l2artifacts-3.0.7.jar",
+      "hashes": {
+        "sha1": "4ab009a09b902add2dba9a1497a1bbb51f4b037f",
+        "sha512": "2fe60b8a4f9a8197a62f18fcc6b01f8ae575dbc3e1dda216a77c17e3b9dbace1470546eb0cf0eece3d11090f2ed9785b2667541bb5f51be2b9780d54ff07d80a"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7473/148/l2artifacts-3.0.7.jar",
+        "https://edge.forgecdn.net/files/7473/148/l2artifacts-3.0.7.jar",
+        "https://cdn.modrinth.com/data/8RtpLoXH/versions/eE9tVLk9/l2artifacts-3.0.7.jar"
+      ],
+      "fileSize": 1640676
     },
     {
       "path": "mods/l2library-3.0.8.jar",
@@ -1995,19 +1996,6 @@
       "fileSize": 432269
     },
     {
-      "path": "mods/weather2-neoforge-1.21.0-2.8.6.jar",
-      "hashes": {
-        "sha1": "d57cc3ef457e72577e394ce881bc29cacb5ed78a",
-        "sha512": "fbdbbb6214ab1c25c71771c814cfe62976ff2d123a746a75df53150212e608f72cb6696cd11e1193b294de124e936f9505df83bf464193838fb33bc5a17488eb"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/6926/103/weather2-neoforge-1.21.0-2.8.6.jar",
-        "https://edge.forgecdn.net/files/6926/103/weather2-neoforge-1.21.0-2.8.6.jar",
-        "https://cdn.modrinth.com/data/dv5SFk5T/versions/BiIbTuRr/weather2-neoforge-1.21.0-2.8.6.jar"
-      ],
-      "fileSize": 6837438
-    },
-    {
       "path": "mods/WitherSkeletonTweaks-1.21.1-10.1.1.jar",
       "hashes": {
         "sha1": "eda07efc2f5e47492abe205295b182c219c6199f",
@@ -2719,19 +2707,6 @@
         "https://edge.forgecdn.net/files/7140/376/betterp2p-1.5.2.jar"
       ],
       "fileSize": 266425
-    },
-    {
-      "path": "mods/[月之石] moonstone-1.4.0.0-neoforge-splice.jar",
-      "hashes": {
-        "sha1": "45a3049614b599180bd415fb6d9d962e6a447139",
-        "sha512": "7ce758d830a489b8efc525c1a0dd78e159f8295b7ea5bb7efbe3e854a34bacd7b8db33798ea241060bdab491042fe428aada45a6cd90f169cd0bc2b5689fa5d8"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/7270/848/moonstone-1.4.0.0-neoforge-splice.jar",
-        "https://edge.forgecdn.net/files/7270/848/moonstone-1.4.0.0-neoforge-splice.jar",
-        "https://cdn.modrinth.com/data/Djpjjz6B/versions/cTjIwRGn/moonstone-1.4.0.0-neoforge-splice.jar"
-      ],
-      "fileSize": 2632821
     },
     {
       "path": "mods/[末地乐事] ends_delight-2.5.1+neoforge.1.21.1.jar",
@@ -3630,6 +3605,17 @@
       "fileSize": 74742
     },
     {
+      "path": "mods/kaleidoscope_end-1.0.1-BETA2-1.21.1.jar",
+      "hashes": {
+        "sha1": "a81a8f8b560d2e4d7bfc1c3b9344a3017ece8f2d",
+        "sha512": "d4ee07904eadd43ab44f6f08ea02d3dafc72cb3d8871b47d9ea7a5df48d747098bbff68c3ce194ab726b3a778a2e0846cfc98998f74ae5e505db2a4933efce6f"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8GKUHBM6/versions/yTXkNKNS/kaleidoscope_end-1.0.1-BETA2-1.21.1.jar"
+      ],
+      "fileSize": 299600
+    },
+    {
       "path": "mods/kaleidoscope_nether-1.0.4-1.21.1.jar",
       "hashes": {
         "sha1": "becc7c66392a88ea5b7950367feefc754faa4c62",
@@ -3694,28 +3680,6 @@
         "https://cdn.modrinth.com/data/MPCX6s5C/versions/thf4cN71/notenoughanimations-neoforge-1.11.3-mc1.21.1.jar"
       ],
       "fileSize": 1926047
-    },
-    {
-      "path": "mods/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar",
-      "hashes": {
-        "sha1": "14e6fb20e82ffcb7e604e595118e7d0ca9f7f384",
-        "sha512": "09bc87ebd3adb05451e9575bcc2e41865c3b3437b3f8b6b7a314bb0c7d32a79c15d76d8b3b18ab5ffe43a682c52ba22c3715837d7ab24f514f267b6264304285"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/zV5r3pPn/versions/nVJQQoQ0/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar"
-      ],
-      "fileSize": 1966859
-    },
-    {
-      "path": "mods/waveycapes-neoforge-1.8.2-mc1.21.1.jar",
-      "hashes": {
-        "sha1": "537132e1367957a0531daf805593556ebbcfa4d2",
-        "sha512": "d0b9cfbfa2bd4c291ff088abaaa8b75a0c89ce16c572e433d81f765522b6907e1821fcff8d6ed62f2e083bffd9d6832c10a23b48fd195d8d1e29d830805f3aae"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/kYuIpRLv/versions/amiXJHmn/waveycapes-neoforge-1.8.2-mc1.21.1.jar"
-      ],
-      "fileSize": 1835650
     },
     {
       "path": "mods/[MC百科搜索] searchonmcmod-neoforge-1.21-1.21.8-0.0.8.jar",
