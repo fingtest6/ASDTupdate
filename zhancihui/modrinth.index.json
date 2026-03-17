@@ -533,6 +533,78 @@
       "fileSize": 58174372
     },
     {
+      "path": "mods/[森罗厨房：乐此不疲] Kaleidoscope Texture Expansion-2.8.0-1.21.1.jar",
+      "hashes": {
+        "sha1": "26de215fa4891cdfc899c8087f05011d9bc22f63",
+        "sha512": "4cd77177d59f96c924dabd67c36d19085495618f9c97769f2194dff5346c4dee302ca8a7a3c7793d5f675e2cc9703f01ca48510ed35f5186e13a72102e06a579"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sOzI21iF/versions/WZtNFTrW/Kaleidoscope%20Texture%20Expansion-2.8.0-1.21.1.jar"
+      ],
+      "fileSize": 430566
+    },
+    {
+      "path": "mods/[森罗厨房：国味] kaleidoscope_chinesefood-1.0.1-neoforge+1.21.1.jar",
+      "hashes": {
+        "sha1": "98f34bd8f510f55302fa01f94e48ca613247da83",
+        "sha512": "c902646e1a61997aa75abe2814bec7dbad24b45d54684b6c93e1ba4bc5e886dc1a6159ffb84976ca378104599847eaf4e3a79bbb8fdc5f9e0b58e0e9a8339e45"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cuIIkdlx/versions/838F9enH/kaleidoscope_chinesefood-1.0.1-neoforge%2B1.21.1.jar"
+      ],
+      "fileSize": 157087
+    },
+    {
+      "path": "mods/[森罗物语：下界] kaleidoscope_nether-1.0.5 fix-1.21.1.jar",
+      "hashes": {
+        "sha1": "87ed4ef80cf331b35d710c8f2f559c2a505a3da1",
+        "sha512": "f457c5f0d9865c16edb583800730622394a61e751e9a8b74bb56ef9fdf59108ce2a330c05c752cd764c7f9f619f92846c2743e1a1e3f68c7af5219f028170c68"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7755/27/kaleidoscope_nether-1.0.5%20fix-1.21.1.jar",
+        "https://edge.forgecdn.net/files/7755/27/kaleidoscope_nether-1.0.5%20fix-1.21.1.jar",
+        "https://cdn.modrinth.com/data/O4YuhMsI/versions/Jjgkma3Q/kaleidoscope_nether-1.0.5%20fix-1.21.1.jar"
+      ],
+      "fileSize": 1038594
+    },
+    {
+      "path": "mods/[森罗物语：厨房] kaleidoscopecookery-1.2.1-neoforge+mc1.21.1.jar",
+      "hashes": {
+        "sha1": "00b10d1b5bef01d222749fd3c6fcd34eced55393",
+        "sha512": "12faca40bc28307da55e5622ff4460424f19b7a85e6bf98e0a580a0f39b132faa4c41fa086032d89889153d4db20a29f8ee55f529a6a03c436918094a7308c64"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7738/871/kaleidoscopecookery-1.2.1-neoforge%2bmc1.21.1.jar",
+        "https://edge.forgecdn.net/files/7738/871/kaleidoscopecookery-1.2.1-neoforge%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/v17FatAc/versions/Vr2KvNGj/kaleidoscopecookery-1.2.1-neoforge%2Bmc1.21.1.jar"
+      ],
+      "fileSize": 2509174
+    },
+    {
+      "path": "mods/[森罗物语：末地] kaleidoscope_end-1.0.1-BETA2-1.21.1.jar",
+      "hashes": {
+        "sha1": "a81a8f8b560d2e4d7bfc1c3b9344a3017ece8f2d",
+        "sha512": "d4ee07904eadd43ab44f6f08ea02d3dafc72cb3d8871b47d9ea7a5df48d747098bbff68c3ce194ab726b3a778a2e0846cfc98998f74ae5e505db2a4933efce6f"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8GKUHBM6/versions/yTXkNKNS/kaleidoscope_end-1.0.1-BETA2-1.21.1.jar"
+      ],
+      "fileSize": 299600
+    },
+    {
+      "path": "mods/[森罗物语：酒馆] kaleidoscopetavern-1.0.0-neoforge+mc1.21.1.jar",
+      "hashes": {
+        "sha1": "bbe6a74e286d37ca68fd290a6def4bca9c7e78b9",
+        "sha512": "eae7ebd5e2abb43e7716f3d0505ab4a293b93b1d494d77333143937136fcc7b8ffee151c41e5ebf3a94113d71962a351115853df422fe4ad0959656f3f6d6837"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7704/373/kaleidoscopetavern-1.0.0-neoforge%2bmc1.21.1.jar",
+        "https://edge.forgecdn.net/files/7704/373/kaleidoscopetavern-1.0.0-neoforge%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/r9RZvhiJ/versions/U0VTupk8/kaleidoscopetavern-1.0.0-neoforge%2Bmc1.21.1.jar"
+      ],
+      "fileSize": 831764
+    },
+    {
       "path": "mods/[玉 🔍] Jade-1.21.1-NeoForge-15.10.5.jar",
       "hashes": {
         "sha1": "d5bf134b3dbde9f5258666823900e21341dc0a50",
@@ -726,43 +798,6 @@
       "fileSize": 73938
     },
     {
-      "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip",
-      "hashes": {
-        "sha1": "95883b516298ff4cf1a67ff512086eb67aeedd98",
-        "sha512": "207ad92ab354e1be002e1ccce978da3860af69532ddcdecbc2a943ffe1ff7ac5eec6b021073ae68b93d78499c63d505de3abf63d9058cdf6cb80bed6528b7532"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/7574/260/ComplementaryUnbound_r5.7.1.zip",
-        "https://edge.forgecdn.net/files/7574/260/ComplementaryUnbound_r5.7.1.zip",
-        "https://cdn.modrinth.com/data/R6NEzAwj/versions/d8rcvDTp/ComplementaryUnbound_r5.7.1.zip"
-      ],
-      "fileSize": 522973
-    },
-    {
-      "path": "shaderpacks/MakeUp-UltraFast-9.4c.zip",
-      "hashes": {
-        "sha1": "0e856109783bf72e82d9a1e65713afa908ab6edd",
-        "sha512": "c586c9e73512467140506f369668ef5c6b84122ed176d90e41016d11673e73c899bf8de3b7301d9e294f2aac36428fa87025047384420ca9673e5e5371881b21"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/7684/712/MakeUp-UltraFast-9.4c.zip",
-        "https://edge.forgecdn.net/files/7684/712/MakeUp-UltraFast-9.4c.zip",
-        "https://cdn.modrinth.com/data/izsIPI7a/versions/20OMmWR5/MakeUp-UltraFast-9.4c.zip"
-      ],
-      "fileSize": 402680
-    },
-    {
-      "path": "shaderpacks/VanillaPlus_v3.3.zip",
-      "hashes": {
-        "sha1": "e3e6d764cfb598fc4d0e62c6dd99f1211037ee38",
-        "sha512": "b9ef99f06781fd0c0b867e4415bee2020dbc6ad4538c87f176c76e4b8528a1df56aaf22c0c30624f3c68a230970c83c70e1e04fdc733289f7acf1238abca66d9"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/EPsIYDj1/versions/U3rhmRqW/VanillaPlus_v3.3.zip"
-      ],
-      "fileSize": 445002
-    },
-    {
       "path": "mods/ApothicAttributes-1.21.1-2.9.1.jar",
       "hashes": {
         "sha1": "e7f669e1b45d75076200436f37c40a6dd3b6a6ff",
@@ -821,6 +856,18 @@
         "https://edge.forgecdn.net/files/6926/281/Placebo-1.21.1-9.9.1.jar"
       ],
       "fileSize": 324056
+    },
+    {
+      "path": "mods/[FTB 区块] ftb-chunks-neoforge-2101.1.14.jar",
+      "hashes": {
+        "sha1": "908b63b11d0e00ae6c9557d3fe6440bdbcf21bb7",
+        "sha512": "c06580f8eb2a61da6fbe1459bb85d375991467d9b205da739787b15a17634fbd993575a5d978c4f478d27bf1b4fe09b194eca02a577aa6e8951b2a9472e36446"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7608/681/ftb-chunks-neoforge-2101.1.14.jar",
+        "https://edge.forgecdn.net/files/7608/681/ftb-chunks-neoforge-2101.1.14.jar"
+      ],
+      "fileSize": 642340
     },
     {
       "path": "mods/[FTB 团队] ftb-teams-neoforge-2101.1.9.jar",
